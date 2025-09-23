@@ -14,7 +14,17 @@ int main() {
     float pib_1;
     int num_pontos_turisticos_1;
 
+    char estado_2[3];
+    char codigo_2[5];
+    char nome_da_cidade_2[20];
+    int populacao_2;
+    float area_2;
+    float pib_2;
+    int num_pontos_turisticos_2;
+
+
   // Área para entrada de dados
+    printf("Bem-vindo ao Jogo Super Trunfo")
     printf("Cadastro das Cartas\n");
 
     printf("Digite o Estado: \n");
