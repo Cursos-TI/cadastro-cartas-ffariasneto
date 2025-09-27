@@ -96,6 +96,7 @@ int main() {
     printf("PIB per Capita: %.2f\n", pib_pc_2); //resultado das variáveis do nível aventureiro
     printf("Super Poder: %.4f\n", super_poder_2); //resultado das variáveis do nível mestre
 
+    //Variáveis e resultados abaixo relacionados ao nível mestre.
     int comp_populacao = (populacao_1 > populacao_2);
     int comp_area = (area_1 > area_2);
     int comp_pib = (pib_1 > pib_2);
